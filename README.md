@@ -6,7 +6,7 @@
 
 This repository belong to our article at (article link)
 
-Object Detection on COCO Dataset using Tensorflow 2.x from scratch, achieved 24.8 AP on COCO Dataset
+Object Detection on COCO Dataset for Embedded Devices using Tensorflow 2.x from scratch, achieved 24.8 AP on COCO Dataset
 
 You only need Python3.7, Tensorflow2.3 and OpenCV for our code to work
 
