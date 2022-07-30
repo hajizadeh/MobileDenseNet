@@ -2,7 +2,7 @@
 
 ## About code
 
-This repository belong to our article at (article link)
+This repository belong to our article at https://arxiv.org/abs/2207.11031
 
 Object Detection on COCO Dataset for Embedded Devices using Tensorflow 2.x from scratch, achieved 24.8 AP on COCO Dataset
 ![image](https://user-images.githubusercontent.com/11835873/179398211-906f4a8b-b2a8-4740-9307-473778a4d79f.png)
